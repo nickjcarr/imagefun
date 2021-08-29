@@ -1,0 +1,32 @@
+.image {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    height: 200px; 
+    align-items: flex-end;
+    height: 100%;
+    width: 100%;
+    
+
+}
+.linkedin {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 100px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body {
+    min-height: 100vh;
+    background: url(https://th.bing.com/th/id/R.42b437dbc9f3605123a18eecb41af473?rik=8uVpDZmYzn6%2bAQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fZuy8mSL.jpg&ehk=a9vBX71fZemPq5Zx4t0PNVpoEG1ibX%2bBDqwf1DWBYlY%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
